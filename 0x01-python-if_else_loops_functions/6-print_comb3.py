@@ -6,4 +6,4 @@ for a in range(0, 10):
             if (a + b) != 17:
                 print(", ", end="")
             else:
-                print("") 
+                print("")
