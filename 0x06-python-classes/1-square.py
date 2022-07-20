@@ -10,5 +10,5 @@ class Square:
     The __init__ method create a private instance variable size
         Args:
             size (int): Takes an integer."""
-      def __init__(self, size):
-           self.__size = size
+    def __init__(self, size):
+        self.__size = size
