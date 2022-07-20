@@ -1,11 +1,7 @@
 #!/usr/bin/python3
 
+"""This modulle defines a square and initialises it"""
 class Square:
-
-  '''We are here again with our documentation'''
-
+"""Square Implementation"""
       def __init__(self, size):
-
-  '''I guess this can be here also I'll correct this when i get a hang of it'''
-
            self.__size=size
